@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+/* THIS FILE CORRESPONDS TO ABOUT.HTML */ 
+
+/* This is the everything tag, it applies to everything on the screen  */
+
+* {
+    background-color: rgb(247, 247, 247);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+html, body {
+    margin: 0px;
+    padding: 0px;
+    
+}
+#contact-me-button {
+  
+    position: absolute;
+    top: 50px;
+    right: 30px;
+    
+    
+    border: 4px solid;
+    background-color:#7510F7 ;
+    border-color: #7510F7;
+    color: whitesmoke;
+    border-radius: 290486px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    
+}
+
+#logo {
+    margin-top: 3%;
+    margin-left: 3%;
+}
+
+
+.hero-section {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    position: relative;
+    margin-top: 100px;
+}
+
+.second-line {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+.profile-picture {
+    border-radius: 50%;
+    width: 300;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.back-button {
+    margin-top: -6.8%;
+    margin-left: 95%;
+}
+
+
+
+
+.section-2 {
+    background-color: rgb(255, 166, 0);
+    margin-top: 190px;
+    padding: 20px;
+    padding-bottom: 150px;
+}
+
+.introduction-title {
+    background-color: transparent;
+    color: whitesmoke;
+    font-size: 39px;
+    font-weight:lighter;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    
+}
+
+.introduction-paragraph {
+    background-color: transparent;
+    color: whitesmoke;
+    text-align: center;
+    margin-left: 22%;
+    margin-right: 22%;
+    font-weight: 200;
+    line-height: 1.5;
+}
+
+.gifted {
+    color: whitesmoke;
+    text-align: center !important;
+    margin-left: 2%;
+    margin-right: 4%;
+    min-width: 45%;
+}
+
+.qmind {
+    color: whitesmoke;
+    text-align: center !important;
+    min-width: 45%;
+
+}
+
+.quantt {
+    color: whitesmoke;
+    text-align: center !important;
+    margin-left: 2%;
+    margin-right: 4%;
+    min-width: 45%;
+}
+
+.qcli {
+    color: whitesmoke;
+    text-align: center !important;
+    min-width: 45%;
+}
+
+footer {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    height: 90px;
+    position: fixed;
+    
+}
+
+
+li {
+    display: inline-block;
+    
+    
+}
+    
+.fa {
+    
+    padding: 15px;
+    margin-right: 190px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 90%;
+    color: black;
+    border-color: orange;
+    border: 3px solid;
+    border-color: orange;
+    
+  }
+
+.fa-linkedin {
+    margin-left: 40px;
+  
+
+}
+
+#wrapper {
+    margin-left:auto;
+    margin-right:auto;
+    width:960px;
+}
+
+.social-media {
+    
+    text-align: center;
+}
+
+.fa-linkedin{
+    margin-left: 40px;
+
+}
